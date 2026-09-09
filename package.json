@@ -1,0 +1,18 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "description": "Google Ads quick audit tool",
+  "main": "src/googleAdsQuickAudit.js",
+  "scripts": {
+    "test": "node --test",
+    "audit": "node src/googleAdsQuickAudit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/rafaelchat/newproject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
